@@ -1,0 +1,19 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sandyz.fragmentsassignment2.OutputFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+
+        android:id="@+id/putputext"
+        android:textSize="50dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:background="@color/colorPrimaryDark"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         />
+
+</FrameLayout>
